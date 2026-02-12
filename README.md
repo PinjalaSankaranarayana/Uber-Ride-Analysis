@@ -1,2 +1,1 @@
-# Uber-Ride-Analysis
-Uber Ride Analysis
+This project is a Power BI dashboard created to analyze Uber ride data and understand how the business is performing. It shows important details like total rides, completed rides, cancelled rides, revenue, and driver availability using simple charts and KPIs. The dashboard helps to identify peak hours, cancellation patterns, and overall ride trends. I used data cleaning, basic data analysis, and DAX formulas to calculate key metrics and present them in an easy-to-understand format. This project demonstrates my skills in data analysis, visualization, and dashboard design using Power BI.
